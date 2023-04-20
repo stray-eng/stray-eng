@@ -1,10 +1,10 @@
 Hello (!)
 
 
-## Programming languages
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,php,html,css,linux)](https://skillicons.dev)
+
+C C++ PHP Linux HTML CSS QT
 
 
-<!---
-stray-eng/stray-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
