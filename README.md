@@ -4,5 +4,5 @@ Hello (!)
 ### Skills
 
 ![](https://skillicons.dev/icons?i=cpp,qt,php,html,css,linux)
-![C](https://skillicons.dev/icons?i=c)
+[![C](https://skillicons.dev/icons?i=c)](https://www.google.com)
 <!--- icons from: https://github.com/tandpfun/skill-icons --->
