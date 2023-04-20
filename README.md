@@ -3,5 +3,5 @@ Hello (!)
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,php,html,css,linux)](https://skillicons.dev)
+![](https://skillicons.dev/icons?i=c,cpp,qt,php,html,css,linux)](https://skillicons.dev)
 <!--- icons from: https://github.com/tandpfun/skill-icons --->
