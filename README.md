@@ -1,7 +1,7 @@
 Hello (!)
+----
 
-
-### Skills
+#### Skills
 <!--- icons from: https://github.com/tandpfun/skill-icons --->
 [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_%28programming_language%29 "C")
 [![C++](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B "C++")
