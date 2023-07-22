@@ -14,3 +14,11 @@ Hi!
 
 ### Fun
 🏛️ [wikitrivia.tomjwatson.com](https://wikitrivia.tomjwatson.com) 🥇 Best Streak: 25
+
+<br><br><br><br><br><br><br><br>
+<pre>
+-----BEGIN GEEK CODE BLOCK-----
+Version: 3.1
+GCS/O d- s: a C++ UL P-- L+++ E---- W++ N+ o? K+ w-- !O M !V PS++ !Y !PGP !t !5 X- R- !tv b+ DI+ !D G>G+++ e++ z?
+------END GEEK CODE BLOCK----
+</pre>
