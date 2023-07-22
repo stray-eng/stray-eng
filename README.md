@@ -13,4 +13,4 @@ Hi!
 
 
 ### Fun
-🏛️ wikitrivia.tomjwatson.com 🥇 Best Streak: 25
+🏛️ [wikitrivia.tomjwatson.com](https://wikitrivia.tomjwatson.com) 🥇 Best Streak: 25
