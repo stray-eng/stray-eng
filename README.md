@@ -10,8 +10,11 @@ Hi!
 [![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/ "HTML")
 [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/TR/CSS/ "CSS")
 [![Linux](https://skillicons.dev/icons?i=linux)](https://en.wikipedia.org/wiki/Linux "Linux")
-
-
+<!--
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,php,html,css,linux,md,regex&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://skillicons.dev)
+-->
 ### Fun
 🏛️ [wikitrivia.tomjwatson.com](https://wikitrivia.tomjwatson.com) 🥇 Best Streak: 25
 
