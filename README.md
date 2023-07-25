@@ -2,23 +2,25 @@ Hi!
 ----
 
 ### Skills
-<!--- icons from: https://github.com/tandpfun/skill-icons --->
-[![C++](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B "C++")
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_%28programming_language%29 "C")
-[![QT](https://skillicons.dev/icons?i=qt)](https://www.qt.io/ "QT")
+
+[![C++](https://skillicons.dev/icons?i=cpp&theme=light)](https://en.wikipedia.org/wiki/C%2B%2B "C++")
+[![C](https://skillicons.dev/icons?i=c&theme=light)](https://en.wikipedia.org/wiki/C_%28programming_language%29 "C")
+[![QT](https://skillicons.dev/icons?i=qt&theme=light)](https://www.qt.io/ "QT")
+<br>
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/ "PHP")
-[![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/ "HTML")
-[![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/TR/CSS/ "CSS")
-[![Linux](https://skillicons.dev/icons?i=linux)](https://en.wikipedia.org/wiki/Linux "Linux")
-<!--
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,php,html,css,linux,md,regex&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://skillicons.dev)
--->
+[![HTML](https://skillicons.dev/icons?i=html&theme=light)](https://html.spec.whatwg.org/ "HTML")
+[![CSS](https://skillicons.dev/icons?i=css&theme=light)](https://www.w3.org/TR/CSS/ "CSS")
+<br>
+[![Linux](https://skillicons.dev/icons?i=linux&theme=light)](https://en.wikipedia.org/wiki/Linux "Linux")
+[![Markdown](https://skillicons.dev/icons?i=md&theme=light)](https://en.wikipedia.org/wiki/Markdown "Markdown")
+[![regex](https://skillicons.dev/icons?i=regex&theme=light)](https://en.wikipedia.org/wiki/Regular_expression "Regex")
+
+
 ### Fun
+
 🏛️ [wikitrivia.tomjwatson.com](https://wikitrivia.tomjwatson.com) 🥇 Best Streak: 25
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 <pre>
 -----BEGIN GEEK CODE BLOCK-----
 Version: 3.1
