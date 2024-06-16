@@ -12,8 +12,8 @@
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/ "PHP")
 [![HTML](https://skillicons.dev/icons?i=html&theme=light)](https://html.spec.whatwg.org/ "HTML")
 [![CSS](https://skillicons.dev/icons?i=css&theme=light)](https://www.w3.org/TR/CSS/ "CSS")
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://en.wikipedia.org/wiki/JavaScript)
-[![Progressive Web App](pwa.png)](https://en.wikipedia.org/wiki/Progressive_web_app)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://en.wikipedia.org/wiki/JavaScript "JavaScript")
+[![Progressive Web App](pwa.png)](https://en.wikipedia.org/wiki/Progressive_web_app "Progressive Web App")
 
 
 ## Fun
